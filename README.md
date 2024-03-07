@@ -8,4 +8,4 @@
 7. Computar a tarefa
 8. Revisar o melhor modelo
 9. Lançar o melhor modelo
-10. Testar o m
+10. Testar o melhor modelo
